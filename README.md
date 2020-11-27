@@ -1,2 +1,2 @@
-# Machine-learning
-files of ML
+# Machine-learning Course
+files of ML classes
